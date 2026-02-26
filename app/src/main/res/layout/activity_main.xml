@@ -64,7 +64,7 @@
         android:id="@+id/fab_avancar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="88dp"
+        android:layout_marginTop="90dp"
         android:clickable="true"
         android:contentDescription="Avançar para proxima tela"
         app:fabSize="auto"
